@@ -1,6 +1,6 @@
-# Taller de introducción a `git` y GitHub
+# CV con`Git` y GitHub
 
-En este taller de introducción a `git` y [GitHub][1] aprenderemos los comandos básicos para empezar a trabajar con repositorios de forma local y remota.
+En estos apuntes de introducción a `git` y [GitHub][1] aprenderemos los comandos básicos para empezar a trabajar con repositorios de forma local y remota.
 
 1. [`git`](#git)  
   1.1 [Instalación y configuración de `git`](#instalación-y-configuración-de-git)  
